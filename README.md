@@ -40,3 +40,7 @@ A summary of the most useful code snippets and frameworks for web developement
   ```
 
   --> **script.js**
+
+
+
+- https://github.com/janpaepke/ScrollMagic
